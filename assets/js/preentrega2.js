@@ -13,5 +13,13 @@ class Equipo {
             return figuritas;
         };
     }
-}
 
+    getPais() {
+        return pais();
+    }
+
+    getFiguritas() {
+        return figuritas();
+    }
+
+}
